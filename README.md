@@ -46,6 +46,12 @@ xlabel(' Normalized Digital Frequency w');
 ylabel('Magnitude ');
 title(' Frequency Response of Butterworth IIR LPF');
 ```
+### CALCULATION:
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ff18b66-9b0e-4865-87e6-d19389596c20" />
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8a41282-24ee-494d-a9b8-7045a12473bc" />
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/1917db0b-9399-4e89-9780-b46c16af2a07" />
+
+
 ### OUTPUT: 
 <img width="1367" height="621" alt="WhatsApp Image 2026-08-07 at 22 39 00" src="https://github.com/user-attachments/assets/964fdb15-2f0f-4587-b300-0644b24e94c6" />
 
